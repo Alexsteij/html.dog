@@ -1,9 +1,19 @@
 p {
-	color: red;
+	color: blue;
 }
 
 a {
 	color: blue;
+}
+
+body {
+    font-size: 14px;
+    color: green;
+}
+
+h1 {
+    color: #ffc;
+    background-color: #009;
 }
 
 
