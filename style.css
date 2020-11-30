@@ -16,4 +16,24 @@ h1 {
     background-color: #009;
 }
 
+body {
+    font-family: arial, helvetica, sans-serif;
+    font-size: 14px;
+}
 
+h1 {
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+a {
+    text-decoration: blue;
+}
+
+strong {
+    font-style: italic;
+    text-transform: uppercase;
+}
